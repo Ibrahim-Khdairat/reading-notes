@@ -29,5 +29,4 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
     We can add images by this way 
     ```
     ![Image](Image URL)
-
-```
+    ```
