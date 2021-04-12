@@ -9,7 +9,7 @@
 ***Contact Me*** :
 
 - Mobile Number : +962772676338
-- G-Mail : [G-Mail](ibrahimkuderat@gmail.com)
+- G-Mail : ibrahimkuderat@gmail.com
 
 |  Now there is my work :|
 |--------------------------|
