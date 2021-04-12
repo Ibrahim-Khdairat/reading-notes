@@ -4,9 +4,9 @@
 
 ***Major*** : Power Elctrical Engineer
 
-*** Address*** : Jordan-Irbid
+***Address*** : Jordan-Irbid
 
-*** Contact Me*** :
+***Contact Me*** :
 
 - Mobile Number : +962772676338
 - G-Mail : [G-Mail](ibrahimkuderat@gmail.com)
@@ -14,7 +14,8 @@
 |  Now there is my work :|
 |--------------------------|
 | - [Read01-Learninig MarkDown](https://ibrahim-khdairat.github.io/reading-notes/Read01LearningMarkdown)|
-|- [Read02-Revision And The Cloud](Read02RevisionAndTheCloud)|
+|- [Read02-Revision And The Cloud](Read02RevisinAandTheCloud.md)|
+
 
 ***Just Smile :)***
 
