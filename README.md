@@ -15,6 +15,7 @@
 |--------------------------|
 | - [Read01-Learninig MarkDown](https://ibrahim-khdairat.github.io/reading-notes/Read01LearningMarkdown)|
 |- [Read02-Revision And The Cloud](Read02RevisinAandTheCloud.md)|
+| - [Read-3-Structure web pages with HTML](read03.md)|
 
 
 
