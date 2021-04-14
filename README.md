@@ -17,6 +17,7 @@
 |- [Read02-Revision And The Cloud](Read02RevisinAandTheCloud.md)|
 | - [Read03-Structure web pages with HTML](read03.md)|
 | - [Read04.a- Dynamic web pages with JavaScript](read04a.md)|
+| - [Read04.b-  Computer Architecture and Logic](read04b.md)|
 
 
 
