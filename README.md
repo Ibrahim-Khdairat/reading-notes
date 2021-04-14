@@ -15,7 +15,8 @@
 |--------------------------|
 | - [Read01-Learninig MarkDown](https://ibrahim-khdairat.github.io/reading-notes/Read01LearningMarkdown)|
 |- [Read02-Revision And The Cloud](Read02RevisinAandTheCloud.md)|
-| - [Read-3-Structure web pages with HTML](read03.md)|
+| - [Read03-Structure web pages with HTML](read03.md)|
+| - [Read04.a- Dynamic web pages with JavaScript](Read04.md)|
 
 
 
