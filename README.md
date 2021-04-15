@@ -18,6 +18,7 @@
 | - [Read03-Structure web pages with HTML](read03.md)|
 | - [Read04.a- Dynamic web pages with JavaScript](read04a.md)|
 | - [Read04.b-  Computer Architecture and Logic](read04b.md)|
+| - [Read05 - Operators and Loops](read05.md)|
 
 
 
