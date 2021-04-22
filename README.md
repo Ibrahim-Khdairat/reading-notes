@@ -21,7 +21,7 @@
 | - [Read05 - Operators and Loops](Readings/read05.md)|
 | - [Read06 - Programming with JavaScrip](Readings/read06.md)|
 | - [Read07 - Design web pages with CSS](Readings/read07.md)|
-| - [ Read09 - The Coder's Computer](Readings/read07.md)|
+| - [ Read09 - The Coder's Computer](Readings/read09.md)|
 
 
 
