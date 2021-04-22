@@ -102,6 +102,7 @@ Brackets only supports HTML, CSS and JavaScript, this might be a
 great choice to start with. But still the choice is yours.
 ![image](Photos/lab9.7.png)
 
+
 + ### Sublime Text
 Sublime Text 3 is a premium software that can be purchased in full
 for $70. Otherwise you’ll use the free version. Sublime Text enjoys a
