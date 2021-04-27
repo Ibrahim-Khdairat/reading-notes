@@ -25,6 +25,7 @@
 | - [ Read09 - The Coder's Computer](Readings/read09.md)|
 |  **Code 201 Reading Notes** |
 | - [Read01 - Introductory HTML and JavaScript](read201/class-01.md)|
+| - [Read02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](read201/class-02.md)|
 
 
 
