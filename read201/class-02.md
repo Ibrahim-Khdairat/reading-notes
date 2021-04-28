@@ -54,8 +54,9 @@ To create a break between themes — such as a change of topic in a book or a ne
 
 The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
 CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
-![img](css1.png:Zone.Identifire);
-![img](css2.png:Zone.Identifire);
+![img](../css1.png)
+
+![img](../css2.png)
 
 #### Thers is a 3 ways to add CSS
 + **1-Inline CSS**
