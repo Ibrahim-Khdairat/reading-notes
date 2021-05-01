@@ -1,5 +1,7 @@
 # Read: 05 - HTML Images; CSS Color & Text
 
+## Chapter 5: “Images” 
+
 ### Choosing Images for Your Site
 A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.
 
@@ -22,3 +24,48 @@ to provide additional information about the image. Most browsers will display th
 This specifies the height of the image in pixels.
 `width`
 This specifies the width of the image in pixels.
+
+### Where to Place Images in Your Code
+> 1: before a paragraph
+
+The paragraph starts on a new line after the image.
+
+>2: inside the start of a paragraph
+
+The first row of text aligns with the bottom of the image.
+
+>3: in the middle of a paragraph
+
+The image is placed between the words of the paragraph that it appears in.
+
+
+#### Summary
++ The <img> element is used to add images to a 
+web page.
++ You must always specify a src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
++ You should save images at the size you will be using them on the web page and in the appropriate format.
++ Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
+
+## Chapter 11: “Color”
+
+### Foreground Color
+`color`
+>rgb values
+
+These express colors in terms of how much red, green and 
+blue are used to make it up. For example: rgb(100,100,90)
+ 
+ >hex codes
+
+These are six-digit codes that represent the amount of red,green and blue in a color, preceded by a pound or hash # 
+sign. For example: #ee3e80
+
+>color names
+
+There are 147 predefined color names that are recognized 
+by browsers. For example: Blue.
+
+### Background Color
+`background-color`
+CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box. You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values,ex codes, and color names 
+(covered on the next page).
