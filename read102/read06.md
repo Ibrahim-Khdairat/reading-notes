@@ -34,9 +34,9 @@ when a specific event has occurred. For example, it could be run when:
 • An interval of time has passed
 • A web page has finished loading
 
-![image](hcss.png);
-![image](script.png);
-![image](scr.png);
+![image](../images/hcss.png);
+![image](../images/script.png);
+![image](../images/scr.png);
 
 - ## Expressions + Operators
 
@@ -59,9 +59,9 @@ Here the expression 3 * 2 evaluates into 6. This example also uses the assignmen
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
 
-![image](F1.png);
-![image](F2.png);
-![image](F3.png);
-![image](F4.png);
-![image](F5.png);
-![image](F6.png);
+![image](../images/F1.png);
+![image](../images/F2.png);
+![image](../images/F3.png);
+![image](../images/F4.png);
+![image](../images/F5.png);
+![image](../images/F6.png);

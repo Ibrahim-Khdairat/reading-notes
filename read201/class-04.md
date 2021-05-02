@@ -84,13 +84,13 @@ containing box. The floated element becomes a block-level element around which o
 #### WHAT IS A FUNCTION?
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
 
-![img](../javasc1.png)
+![img](../images/javasc1.png)
 
-![img](../javasc2.png)
+![img](../images/javasc2.png)
 
-![img](../javasc3.png)
+![img](../images/javasc3.png)
 
-![img](../javasc4.png)
+![img](../images/javasc4.png)
 
 
 * #### 6 Reasons for Pair Programming

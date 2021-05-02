@@ -54,9 +54,9 @@ To create a break between themes — such as a change of topic in a book or a ne
 
 The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
 CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
-![img](../css1.png)
+![img](../images/css1.png)
 
-![img](../css2.png)
+![img](../images/css2.png)
 
 #### Thers is a 3 ways to add CSS
 + **1-Inline CSS**
@@ -67,7 +67,7 @@ Write the code of CSS within `<style> </style` tag in the `<head>` tag.
 By adding this line `<link href="css/styles.css" type="text/css" rel="stylesheet" />`
 
 #### CSS Selectors
-![img](css3.png:Zone.Identifire);
+![img](../images/css3.png);
 
 + CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
 +  Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like).
@@ -220,4 +220,4 @@ Here the condition can be something other than a counter, and the code will cont
 
 #### Switch Statment
 
-![img](css4.png:Zone.Identifire);
+![img](../images/css4.png);

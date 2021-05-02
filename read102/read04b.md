@@ -10,7 +10,7 @@
 - Storage.
 - Processing
 - Output.
-![Image](img1.jpg)
+![Image](../images/img1.jpg)
 
 *In the Binary number system, We only have two digits: ZERO and ONE.*
 *The bit it's the smallest piece of information a computer can store.*
@@ -22,14 +22,14 @@
 Computers work on **ONES & ZEROS** , and nobody deals directly with **ONES & ZEROS .**
  **ONES & ZEROS** play a big role in how computer work.
 
- ![Image](d.jpg)
+ ![Image](../images/d.jpg)
 
  *** - Inside a computer wires & circuits carry all the information in a computer .***
  ### How do you store or represent information using ***Electricity***?
 
 If we have a single wire with electricity flowing through it the signal could either ***(On or Off) ,(True of False),(Yes or No)(1 or 0)***
 
- ![Image](cct.jpg)
+ ![Image](../images/cct.jpg)
 
 This state of a single wire called a Bit . It's the smallest peice of information in the computer.
  
