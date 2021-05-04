@@ -31,6 +31,7 @@
 | - [Read: 05 - HTML Images; CSS Color & Text](read201/class-05.md)|
 | - [Read: 06 - JS Object Literals; The DOM](read201/class-06.md)|
 | - [Read: 07 -  HTML Tables; JS Constructor Functions](read201/class-07.md)|
+| - [Read: 08 -  More CSS Layout](read201/class-08.md)|
 
 
 
