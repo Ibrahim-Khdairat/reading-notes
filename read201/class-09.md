@@ -8,7 +8,9 @@
 The best known form on the web is probably the search box that sits right in the middle of Google's homepage.
 
 #### Form Controls
-![img](../images.read9.1)
+![img](../images/read9.1.png)
+![img](../images/read9.2.png)
+
 
 #### 1- Form Structure
 
