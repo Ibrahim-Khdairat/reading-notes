@@ -33,6 +33,8 @@
 | - [Read: 07 -  HTML Tables; JS Constructor Functions](read201/class-07.md)|
 | - [Read: 08 -  More CSS Layout](read201/class-08.md)|
 | - [Read: 09 -  Forms and Events](read201/class-09.md)|
+| - [Read: 10 -  JS Debugging](read201/class-10.md)|
+
 
 
 
