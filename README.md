@@ -34,6 +34,10 @@
 | - [Read: 08 -  More CSS Layout](read201/class-08.md)|
 | - [Read: 09 -  Forms and Events](read201/class-09.md)|
 | - [Read: 10 -  JS Debugging](read201/class-10.md)|
+| - [Read: 11 -  Audio, Video, Images](read201/class-11.md)|
+| - [Read: 12 -  Docs for the HTML <canvas> Element & Chart.js](read201/class-12.md)|
+
+
 
 
 
