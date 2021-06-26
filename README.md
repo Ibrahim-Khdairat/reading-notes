@@ -38,6 +38,7 @@
 | - [Read: 12 -  Docs for the HTML <canvas> Element & Chart.js](read201/class-12.md)|
 | - [Read: 13 -  LOCAL STORAGE FOR WEB APPLICATIONS](read201/class-13.md)|
 |  **Code 301 - Intermediate Software Development** |
+| - [Read: 01 -  Introduction to React and Components](read201/class-13.md)|
 
 
 
