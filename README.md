@@ -41,6 +41,7 @@
 | - [Read: 01 -  Introduction to React and Components](read301/class01.md)|
 | - [Read: 02 State and Props](read301/class02.md)|
 | - [Read: 03 Passing Functions as Props](read301/class03.md)|
+| - [Read: 04 React and Forms](read301/class04.md)|
 
 
 
