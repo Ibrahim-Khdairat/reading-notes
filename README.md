@@ -42,7 +42,7 @@
 | - [Read: 02 State and Props](read301/class02.md)|
 | - [Read: 03 Passing Functions as Props](read301/class03.md)|
 | - [Read: 04 React and Forms](read301/class04.md)|
-
+| - [Read: 05 Putting it all together](read301/class05.md)|
 
 
 
