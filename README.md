@@ -43,6 +43,7 @@
 | - [Read: 03 Passing Functions as Props](read301/class03.md)|
 | - [Read: 04 React and Forms](read301/class04.md)|
 | - [Read: 05 Putting it all together](read301/class05.md)|
+| - [Read: 06 NODE.JS](read301/class06.md)|
 
 
 
