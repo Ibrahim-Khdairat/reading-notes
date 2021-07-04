@@ -44,6 +44,7 @@
 | - [Read: 04 React and Forms](read301/class04.md)|
 | - [Read: 05 Putting it all together](read301/class05.md)|
 | - [Read: 06 NODE.JS](read301/class06.md)|
+| - [Read: 07 REST](read301/class07.md)|
 
 
 
