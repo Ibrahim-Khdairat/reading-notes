@@ -47,6 +47,7 @@
 | - [Read: 07 REST](read301/class07.md)|
 | - [Read: 08 RESTful web API design](read301/class08.md)|
 | - [Read: 09 FUNCTIONAL PROGRAMMING](read301/class09.md)|
+| - [Read: 10 In memory storage](read301/class10.md)|
 
 
 
