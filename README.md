@@ -9,7 +9,7 @@
 ***Contact Me*** :
 
 - Mobile Number : +962772676338
-- G-Mail : ibrahimkuderat@gmail.com
+- G-mail : ibrahimkuderat@gmail.com
 
 |  Now there is my work :|
 |------------------------|
@@ -50,10 +50,9 @@
 | - [Read: 10 In memory storage](read301/class10.md)|
 | - [Read: 11 Authentication](read301/class11.md)|
 | - [Read: 12 Mongo and Mongoose](read301/class12.md)|
+| - [Read: 13 CRUD](read301/class13.md)|
 
 
-
-Passing Functions as Props
 
 
 
