@@ -20,4 +20,3 @@ When the employees of an organization better represent their users and desired u
 
 ## Give an example of how a diverse company can serve a diverse user base or vise-versa.
 When the employees of an organization better represent their users and desired users, they will build more effectively for those groups. When YouTube’s almost entirely right-handed developer team built the iOS app without considering how left-handed people would use it, for example, 5% to 10% of videos were uploaded upside down as a result. This factor may be especially relevant for leaders of consumer tech companies.
-{"mode":"full","isActive":false}
