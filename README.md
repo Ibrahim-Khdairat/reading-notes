@@ -35,7 +35,7 @@
 | - [Read: 09 -  Forms and Events](read201/class-09.md)|
 | - [Read: 10 -  JS Debugging](read201/class-10.md)|
 | - [Read: 11 -  Audio, Video, Images](read201/class-11.md)|
-| - [Read: 12 -  Docs for the HTML <canvas> Element & Chart.js](read201/class-12.md)|
+| - [Read: 12 -  Docs for the HTML Element & Chart.js](read201/class-12.md)|
 | - [Read: 13 -  LOCAL STORAGE FOR WEB APPLICATIONS](read201/class-13.md)|
 |  **Code 301 - Intermediate Software Development** |
 | - [Read: 01 -  Introduction to React and Components](read301/class01.md)|
@@ -51,7 +51,7 @@
 | - [Read: 11 Authentication](read301/class11.md)|
 | - [Read: 12 Mongo and Mongoose](read301/class12.md)|
 | - [Read: 13 CRUD](read301/class13.md)|
-
+|  **Code 401 - Advanced Software Development in Full-Stack JavaScript** |
 
 
 
