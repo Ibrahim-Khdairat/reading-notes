@@ -52,6 +52,11 @@
 | - [Read: 12 Mongo and Mongoose](read301/class12.md)|
 | - [Read: 13 CRUD](read301/class13.md)|
 |  **Code 401 - Advanced Software Development in Full-Stack JavaScript** |
+| - [Read: 01 Node Ecosystem, TDD, CI/CD](read401/class01.md)|
+| - [Read: 02 Express](read401/class02.md)|
+| - [Read: 03 Express REST API](read401/class03.md)|
+| - [Read: 04 Data Modeling](read401/class04.md)|
+
 
 
 
