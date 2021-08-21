@@ -56,6 +56,7 @@
 | - [Read: 02 Express](read401/class02.md)|
 | - [Read: 03 Express REST API](read401/class03.md)|
 | - [Read: 04 Data Modeling](read401/class04.md)|
+| - [Read: 05 Linked Lists](read401/class05.md)|
 
 
 
