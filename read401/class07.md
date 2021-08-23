@@ -1,4 +1,4 @@
-# READ 06 : Bearer Authorization
+# READ 07 : Bearer Authorization
 
 #### 1- Write the following steps in the correct order
 
