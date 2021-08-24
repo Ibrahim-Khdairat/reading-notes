@@ -60,6 +60,7 @@
 | - [Read: 05 Linked Lists](read401/class05.md)|
 | - [Read: 06 Authentication](read401/class06.md)|
 | - [Read: 07 Bearer Authorization](read401/class07.md)|
+| - [Read: 08 Access Control (ACL)](read401/class08.md)|
 
 
 
