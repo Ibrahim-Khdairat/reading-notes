@@ -61,6 +61,7 @@
 | - [Read: 06 Authentication](read401/class06.md)|
 | - [Read: 07 Bearer Authorization](read401/class07.md)|
 | - [Read: 08 Access Control (ACL)](read401/class08.md)|
+| - [Read: 09 Authorization/Authentication](read401/class09.md)|
 
 
 
