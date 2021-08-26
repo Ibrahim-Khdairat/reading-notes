@@ -1,8 +1,9 @@
-# READ 09 : Stacks and Queues
+# READ 10 : Stacks and Queues
 
 ### 1- what is Stacks?
  a stack is an abstract data type that serves as a collection of elements, with two main principal operations: Push, which adds an element to the collection, and Pop, which removes the most recently added element
- ### 2- what is Queues ?
+ 
+### 2- what is Queues ?
 Queue is an ordered collection of items where the addition of new items happens at one end, called the “rear,” and the removal of existing items occurs at the other end, commonly called the “front.”
 
 ### 3- What are Queues used for?
