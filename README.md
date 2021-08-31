@@ -64,6 +64,10 @@
 | - [Read: 09 Authorization/Authentication](read401/class09.md)|
 | - [Read: 10 Stacks and Queues](read401/class10.md)|
 | - [Read: 11 Event Driven Applications](read401/class11.md)|
+| - [Read: 12 Socket io](read401/class12.md)|
+| - [Read: 13  Message Queues](read401/class13.md)|
+
+
 
 
 
