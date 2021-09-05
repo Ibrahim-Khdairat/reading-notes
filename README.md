@@ -68,6 +68,7 @@
 | - [Read: 13  Message Queues](read401/class13.md)|
 | - [Read: 14  Event Driven Architecture](read401/class14.md)|
 | - [Read: 15  Trees](read401/class15.md)|
+| - [Read: 16  AWS: Cloud Servers](read401/class16.md)|
 
 
 
