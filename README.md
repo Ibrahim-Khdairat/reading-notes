@@ -69,6 +69,8 @@
 | - [Read: 14  Event Driven Architecture](read401/class14.md)|
 | - [Read: 15  Trees](read401/class15.md)|
 | - [Read: 16  AWS: Cloud Servers](read401/class16.md)|
+| - [Read: 17  AWS: S3 and Lambda](read401/class17.md)|
+
 
 
 
