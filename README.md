@@ -71,6 +71,8 @@
 | - [Read: 16  AWS: Cloud Servers](read401/class16.md)|
 | - [Read: 17  AWS: S3 and Lambda](read401/class17.md)|
 | - [Read: 18  AWS: API, Dynamo and Lambda](read401/class18.md)|
+| - [Read: 19  AWS: Events](read401/class19.md)|
+
 
 
 
