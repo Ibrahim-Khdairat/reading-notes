@@ -75,6 +75,10 @@
 | - [Read: 26  Component Based UI](read401/class26.md)|
 | - [Read: 27  Hook](read401/class27.md)|
 | - [Read: 28  Component Lifecycle / useEffect()](read401/class28.md)|
+| - [Read: 29  Advanced State with Reducers](read401/class29.md)|
+| - [Read: 30  Hash Tables](read401/class30.md)|
+
+
 
 
 
