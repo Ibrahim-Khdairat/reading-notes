@@ -77,6 +77,8 @@
 | - [Read: 28  Component Lifecycle / useEffect()](read401/class28.md)|
 | - [Read: 29  Advanced State with Reducers](read401/class29.md)|
 | - [Read: 30  Hash Tables](read401/class30.md)|
+| - [Read: 31  Context API](read401/class31.md)|
+
 
 
 
