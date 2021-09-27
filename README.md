@@ -78,6 +78,8 @@
 | - [Read: 29  Advanced State with Reducers](read401/class29.md)|
 | - [Read: 30  Hash Tables](read401/class30.md)|
 | - [Read: 31  Context API](read401/class31.md)|
+| - [Read: 32  Context API - Behaviors](read401/class32.md)|
+
 
 
 
