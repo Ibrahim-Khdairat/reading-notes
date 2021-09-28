@@ -79,6 +79,8 @@
 | - [Read: 30  Hash Tables](read401/class30.md)|
 | - [Read: 31  Context API](read401/class31.md)|
 | - [Read: 32  Context API - Behaviors](read401/class32.md)|
+| - [Read: 33  "< Login /> and < Auth />"](read401/class33.md)|
+
 
 
 
