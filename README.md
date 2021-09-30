@@ -80,7 +80,9 @@
 | - [Read: 31  Context API](read401/class31.md)|
 | - [Read: 32  Context API - Behaviors](read401/class32.md)|
 | - [Read: 33  "< Login /> and < Auth />"](read401/class33.md)|
-| - [Read: 34   API Integration](read401/class34.md)|
+| - [Read: 34  API Integration](read401/class34.md)|
+| - [Read: 35  Graphs](read401/class35.md)|
+
 
 
 
