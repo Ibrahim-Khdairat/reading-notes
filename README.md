@@ -82,6 +82,7 @@
 | - [Read: 33  "< Login /> and < Auth />"](read401/class33.md)|
 | - [Read: 34  API Integration](read401/class34.md)|
 | - [Read: 35  Graphs](read401/class35.md)|
+| - [Read: 36  Application State with Redux](read401/class36.md)|
 
 
 
