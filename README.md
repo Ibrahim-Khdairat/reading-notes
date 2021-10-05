@@ -84,6 +84,7 @@
 | - [Read: 35  Graphs](read401/class35.md)|
 | - [Read: 36  Application State with Redux](read401/class36.md)|
 | - [Read: 37  Redux - Combined Reducers](read401/class37.md)|
+| - [Read: 38  Redux - Asynchronous Actions](read401/class38.md)|
 
 
 
